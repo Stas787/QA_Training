@@ -1,0 +1,14 @@
+C:\Users\stas4\OneDrive\Рабочий стол\С#\QA.Epam.Coorddinate\QA.Epam.Coorddinate\bin\Debug\netcoreapp3.1\QA.Epam.Coorddinate.exe
+C:\Users\stas4\OneDrive\Рабочий стол\С#\QA.Epam.Coorddinate\QA.Epam.Coorddinate\bin\Debug\netcoreapp3.1\QA.Epam.Coorddinate.deps.json
+C:\Users\stas4\OneDrive\Рабочий стол\С#\QA.Epam.Coorddinate\QA.Epam.Coorddinate\bin\Debug\netcoreapp3.1\QA.Epam.Coorddinate.runtimeconfig.json
+C:\Users\stas4\OneDrive\Рабочий стол\С#\QA.Epam.Coorddinate\QA.Epam.Coorddinate\bin\Debug\netcoreapp3.1\QA.Epam.Coorddinate.runtimeconfig.dev.json
+C:\Users\stas4\OneDrive\Рабочий стол\С#\QA.Epam.Coorddinate\QA.Epam.Coorddinate\bin\Debug\netcoreapp3.1\QA.Epam.Coorddinate.dll
+C:\Users\stas4\OneDrive\Рабочий стол\С#\QA.Epam.Coorddinate\QA.Epam.Coorddinate\bin\Debug\netcoreapp3.1\QA.Epam.Coorddinate.pdb
+C:\Users\stas4\OneDrive\Рабочий стол\С#\QA.Epam.Coorddinate\QA.Epam.Coorddinate\obj\Debug\netcoreapp3.1\QA.Epam.Coorddinate.csproj.AssemblyReference.cache
+C:\Users\stas4\OneDrive\Рабочий стол\С#\QA.Epam.Coorddinate\QA.Epam.Coorddinate\obj\Debug\netcoreapp3.1\QA.Epam.Coorddinate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stas4\OneDrive\Рабочий стол\С#\QA.Epam.Coorddinate\QA.Epam.Coorddinate\obj\Debug\netcoreapp3.1\QA.Epam.Coorddinate.AssemblyInfoInputs.cache
+C:\Users\stas4\OneDrive\Рабочий стол\С#\QA.Epam.Coorddinate\QA.Epam.Coorddinate\obj\Debug\netcoreapp3.1\QA.Epam.Coorddinate.AssemblyInfo.cs
+C:\Users\stas4\OneDrive\Рабочий стол\С#\QA.Epam.Coorddinate\QA.Epam.Coorddinate\obj\Debug\netcoreapp3.1\QA.Epam.Coorddinate.csproj.CoreCompileInputs.cache
+C:\Users\stas4\OneDrive\Рабочий стол\С#\QA.Epam.Coorddinate\QA.Epam.Coorddinate\obj\Debug\netcoreapp3.1\QA.Epam.Coorddinate.dll
+C:\Users\stas4\OneDrive\Рабочий стол\С#\QA.Epam.Coorddinate\QA.Epam.Coorddinate\obj\Debug\netcoreapp3.1\QA.Epam.Coorddinate.pdb
+C:\Users\stas4\OneDrive\Рабочий стол\С#\QA.Epam.Coorddinate\QA.Epam.Coorddinate\obj\Debug\netcoreapp3.1\QA.Epam.Coorddinate.genruntimeconfig.cache
