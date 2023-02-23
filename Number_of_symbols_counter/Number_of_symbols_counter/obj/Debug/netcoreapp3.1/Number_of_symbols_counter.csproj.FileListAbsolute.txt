@@ -1,0 +1,14 @@
+C:\qa.tasks\Number_of_symbols_counter\Number_of_symbols_counter\bin\Debug\netcoreapp3.1\Number_of_symbols_counter.exe
+C:\qa.tasks\Number_of_symbols_counter\Number_of_symbols_counter\bin\Debug\netcoreapp3.1\Number_of_symbols_counter.deps.json
+C:\qa.tasks\Number_of_symbols_counter\Number_of_symbols_counter\bin\Debug\netcoreapp3.1\Number_of_symbols_counter.runtimeconfig.json
+C:\qa.tasks\Number_of_symbols_counter\Number_of_symbols_counter\bin\Debug\netcoreapp3.1\Number_of_symbols_counter.runtimeconfig.dev.json
+C:\qa.tasks\Number_of_symbols_counter\Number_of_symbols_counter\bin\Debug\netcoreapp3.1\Number_of_symbols_counter.dll
+C:\qa.tasks\Number_of_symbols_counter\Number_of_symbols_counter\bin\Debug\netcoreapp3.1\Number_of_symbols_counter.pdb
+C:\qa.tasks\Number_of_symbols_counter\Number_of_symbols_counter\obj\Debug\netcoreapp3.1\Number_of_symbols_counter.csproj.AssemblyReference.cache
+C:\qa.tasks\Number_of_symbols_counter\Number_of_symbols_counter\obj\Debug\netcoreapp3.1\Number_of_symbols_counter.GeneratedMSBuildEditorConfig.editorconfig
+C:\qa.tasks\Number_of_symbols_counter\Number_of_symbols_counter\obj\Debug\netcoreapp3.1\Number_of_symbols_counter.AssemblyInfoInputs.cache
+C:\qa.tasks\Number_of_symbols_counter\Number_of_symbols_counter\obj\Debug\netcoreapp3.1\Number_of_symbols_counter.AssemblyInfo.cs
+C:\qa.tasks\Number_of_symbols_counter\Number_of_symbols_counter\obj\Debug\netcoreapp3.1\Number_of_symbols_counter.csproj.CoreCompileInputs.cache
+C:\qa.tasks\Number_of_symbols_counter\Number_of_symbols_counter\obj\Debug\netcoreapp3.1\Number_of_symbols_counter.dll
+C:\qa.tasks\Number_of_symbols_counter\Number_of_symbols_counter\obj\Debug\netcoreapp3.1\Number_of_symbols_counter.pdb
+C:\qa.tasks\Number_of_symbols_counter\Number_of_symbols_counter\obj\Debug\netcoreapp3.1\Number_of_symbols_counter.genruntimeconfig.cache
