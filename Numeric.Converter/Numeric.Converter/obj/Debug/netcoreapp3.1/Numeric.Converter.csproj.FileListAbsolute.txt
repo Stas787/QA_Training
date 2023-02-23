@@ -1,0 +1,14 @@
+C:\qa.tasks\Numeric.Converter\Numeric.Converter\bin\Debug\netcoreapp3.1\Numeric.Converter.exe
+C:\qa.tasks\Numeric.Converter\Numeric.Converter\bin\Debug\netcoreapp3.1\Numeric.Converter.deps.json
+C:\qa.tasks\Numeric.Converter\Numeric.Converter\bin\Debug\netcoreapp3.1\Numeric.Converter.runtimeconfig.json
+C:\qa.tasks\Numeric.Converter\Numeric.Converter\bin\Debug\netcoreapp3.1\Numeric.Converter.runtimeconfig.dev.json
+C:\qa.tasks\Numeric.Converter\Numeric.Converter\bin\Debug\netcoreapp3.1\Numeric.Converter.dll
+C:\qa.tasks\Numeric.Converter\Numeric.Converter\bin\Debug\netcoreapp3.1\Numeric.Converter.pdb
+C:\qa.tasks\Numeric.Converter\Numeric.Converter\obj\Debug\netcoreapp3.1\Numeric.Converter.csproj.AssemblyReference.cache
+C:\qa.tasks\Numeric.Converter\Numeric.Converter\obj\Debug\netcoreapp3.1\Numeric.Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\qa.tasks\Numeric.Converter\Numeric.Converter\obj\Debug\netcoreapp3.1\Numeric.Converter.AssemblyInfoInputs.cache
+C:\qa.tasks\Numeric.Converter\Numeric.Converter\obj\Debug\netcoreapp3.1\Numeric.Converter.AssemblyInfo.cs
+C:\qa.tasks\Numeric.Converter\Numeric.Converter\obj\Debug\netcoreapp3.1\Numeric.Converter.csproj.CoreCompileInputs.cache
+C:\qa.tasks\Numeric.Converter\Numeric.Converter\obj\Debug\netcoreapp3.1\Numeric.Converter.dll
+C:\qa.tasks\Numeric.Converter\Numeric.Converter\obj\Debug\netcoreapp3.1\Numeric.Converter.pdb
+C:\qa.tasks\Numeric.Converter\Numeric.Converter\obj\Debug\netcoreapp3.1\Numeric.Converter.genruntimeconfig.cache
