@@ -4,23 +4,22 @@ using System.Text;
 
 namespace QA.Epam.Coorddinate
 {
-    public interface IFlyable
+    internal interface IFlyable
     {
-
-        static int Speed { get; set;}
         /// <summary>
-        /// provide dostance and coordinates for new point
+        /// Coordinates of Current position
         /// </summary>
-        static Coordinates FlyTo()
-        {
-        //provide coordinates of the new point
-        }
+        public static Coordinates CurrentPosition { get; set; }
+
+        /// <summary>
+        /// provide coordinates of the new point
+        /// </summary>
+        Coordinates FlyTo(int x2, int y2, int z2);
+
         /// <summary>
         /// Calculate flight time tio the new point
         /// </summary>
-        void GetFlyTime()
-        {
-        //devides distance and speed
-        }
+        double GetFlyTime(double speed, int x2, int y2, int z2);
+        
     }
 }

@@ -11,6 +11,7 @@ namespace QA.Epam.Coorddinate
         {
             FirstPointCoordinates = new Coordinates(x1, y1, z1);
         }
+
         /// <summary>
         ///Create structure with coordinates of new point
         /// </summary>
@@ -18,7 +19,7 @@ namespace QA.Epam.Coorddinate
         /// <param name="y2"></param>
         /// <param name="z2"></param>
         /// <returns></returns>
-        public static Coordinates FlyTo (int x2, int y2, int z2)
+        public Coordinates FlyTo (int x2, int y2, int z2)
         {
             Coordinates SecondPointCoordinates = new Coordinates(x2, y2, z2);
             return SecondPointCoordinates;
@@ -34,7 +35,7 @@ namespace QA.Epam.Coorddinate
         /// <returns></returns>
         /// <exception cref="ArgumentOutOfRangeException">Speed restrictions</exception>
         /// <exception cref="ArgumentException">Distance restrictions</exception>
-        public static double GetFlyTime (double speed, int x2, int y2, int z2)
+        public double GetFlyTime (double speed, int x2, int y2, int z2)
         {
             if(speed > 50)
             {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KzFEbBLdFN7bwaou0pDEcRkCBxQ9WqTGxGusbH/zSSIRjRBLERtR6+ryYY2RS0u1JI8ssj/X5vM4gnz7W/v6Bg==",
+  "dgSpecHash": "0D8979hR7FLDojJcBLax+zHjUZjosdrtRITB9Q+M3Q809aR0CxscvFMVto9dJ4ElMywjHM1K3+CCS38oPEE8vg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\stas4\\OneDrive\\Рабочий стол\\С#\\QA.Epam.Coorddinate\\QA.Epam.Coorddinate\\QA.Epam.Coorddinate.csproj",
+  "projectFilePath": "C:\\qa.tasks\\Coorddinate\\QA.Epam.Coorddinate\\QA.Epam.Coorddinate.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

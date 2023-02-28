@@ -6,7 +6,7 @@ namespace QA.Epam.Coorddinate
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");            
+                  
         }
         
     }
